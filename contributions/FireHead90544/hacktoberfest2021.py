@@ -1,0 +1,7 @@
+# NAME: Rudransh Joshi
+# GITHUB USERNAMME: FireHead90544
+# COUNTRY: India
+# PROGRAMMING LANGUAGE: Python
+# I LOVE HACKTOBERFEST2021
+
+print("Hello Hacktoberfest2021!")
