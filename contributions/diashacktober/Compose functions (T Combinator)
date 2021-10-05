@@ -1,0 +1,1 @@
+const compose = (...params) => params.slice(1).reduce((acc,e) => e(acc), params[0])
