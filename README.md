@@ -9,6 +9,11 @@
 ## :octocat: Learn to fork a repository and open your first pull request to get ready to participate in Hacktoberfest 2021 ✅ 
 
 
+## Register yourself for HacktoberFest2021
+Visit [Hacktoberfest](https://hacktoberfest.digitalocean.com/)'s website, and click on **Start Hacking**, you will be asked to sign up using GitHub/BitBucket, sign up with whatever you prefer and continue entering the required details in the next step.
+Now you're ready to make your first pull request.
+
+
 ## How to make your first pull request?
 
 ### Step#0: 🌟 Star this repo 🙏
@@ -63,7 +68,9 @@ So we highly recommend you to contribute in a meaningful way to other Hacktoberf
 </details>
 
 <details>
-<summary>Read [Hacktoberfest2021's FAQ](https://hacktoberfest.digitalocean.com/faq)</summary>
+<summary>FAQ?</summary>
+<br>
+   Read [Hacktoberfest2021's FAQ](https://hacktoberfest.digitalocean.com/faq)
 <br>
 </details>
 
